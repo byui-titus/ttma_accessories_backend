@@ -1,0 +1,26 @@
+{
+    "name": "ttma_accessories_backend",
+    "version": "1.0.0",
+    "description": "this for my accessories app",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/byui-titus/ttma_accessories_backend.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/byui-titus/ttma_accessories_backend/issues"
+    },
+    "homepage": "https://github.com/byui-titus/ttma_accessories_backend#readme",
+    "dependencies": {
+        "dotenv": "^17.2.3",
+        "express": "^5.1.0",
+        "mongo": "^0.1.0"
+    },
